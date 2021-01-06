@@ -7,3 +7,12 @@ h1{
 .name-color{
     color: yellowgreen;
 }
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 3% ;
+}
+.half-width img{
+    width: 100%;
+}
