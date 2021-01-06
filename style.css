@@ -81,6 +81,22 @@ p{
     background-color: rgb(203, 221, 203);
 
 }
+.one-forth{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    text-align: center;
+    margin-top: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+    background-color: rgb(215, 218, 245);
+}
+.last-sec{
+    background-color: rgb(224, 243, 224);
+}
+#center{
+    text-align: center;
+}
 img{
     width: 100%;
     height: auto;
