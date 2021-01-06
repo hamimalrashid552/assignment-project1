@@ -1,6 +1,26 @@
 body{
+    margin: 0;
     font-family: 'Work Sans', sans-serif;
 }
+.topnav {
+    overflow: hidden;
+    background-color: none;
+  }
+  
+  .topnav a {
+    float: right;
+    color: black;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
 h1{
     font-size: 40px;
 }
@@ -85,4 +105,10 @@ img{
     left: 50%;
     transform: translate(-50%, -50%);
   }
-  
+  footer{
+      text-align: center;
+      margin-top: 7%;
+  }
+  #resieze{
+      width: 80px;
+  }
