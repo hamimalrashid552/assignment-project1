@@ -32,6 +32,7 @@ p{
     color: gray;
 }
 #icon{
-    width: 16px;
+    width: 14px;
     filter: invert(100);
+    vertical-align: middle;
 }
